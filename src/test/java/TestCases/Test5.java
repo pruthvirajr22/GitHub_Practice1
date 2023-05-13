@@ -11,4 +11,8 @@ public class Test5
  {
 	 System.out.println("this is m1 from test5");
  }
+ public static void m2() 
+ {
+	 System.out.println("this is m2 from test5 newly created");
+ }
 }
